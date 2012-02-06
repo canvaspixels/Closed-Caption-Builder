@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en">
+		<head>
+			<styling>
+			</styling>
+		</head>
+		<body>
+			<div xml:lang="en" style="b1">
+				<p begin="00:00.00" end="00:01.18" style="1">These are closed captions</p>
+					<p begin="00:01.18" end="00:02.48" style="1">they should be implemented on all our video content</p>
+					<p begin="00:02.48" end="00:05.07" style="1">and it should be company policy</p>
+					<p begin="00:05.07" end="00:06.64" style="1">ask Alex Rogers for help</p>
+					<p begin="00:06.64" end="00:08.91" style="1">a.rogers@nature.com</p>
+				</div>
+		</body>
+	</tt>
