@@ -12,6 +12,7 @@
 </head>
 <body>
 		<script type="text/javascript">
+		//added in test2
 		$('#paste_insert').remove();
 		$(document.body).append(
 			'<form id="paste_insert" style="background:#EEE; padding:10px; border:1px solid #999; position:absolute; left:0; top:0;"><label for="paste_alignment" style="margin:0 9px 0 0;">Select alignment</label><select id="paste_alignment" style="margin:0 9px 0 0;"><option value="left">Left</option><option value="middle">Middle</option><option value="right">Right</option><select><button type="submit">Insert</button></form>'
