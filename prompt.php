@@ -22,6 +22,7 @@
 			$(this).remove();
 			return false;
 		});
+		//added in master
 		</script>
 </body>
 </html>
